@@ -1,8 +1,11 @@
+import Test from "./components/Test"
+import Test2 from "./components/test2"
 
 function App() {
   return (
     <div className="App">
-     asasas
+      <Test/>
+      <Test2/>
     </div>
   );
 }
